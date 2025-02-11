@@ -31,6 +31,10 @@ javac CalendarApp.java
 ```bash
 java CalendarApp
 ```
+### **4️⃣Or Download the Jar file for Windows**
+```bash
+https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App/blob/main/Calendar/CalendarApp.jar
+```
 
 ## 🐜 Requirements
 - **Java JDK 8+**
