@@ -9,30 +9,30 @@ The **AWT Calendar App** is a simple GUI-based calendar application built using 
 - ⏩ **Change years dynamically**
 - 🎨 **Simple and user-friendly AWT UI**
 
-## 🖼️ Screenshots
-### 🔹 Calendar View
-![Calendar View](screenshots/calendar_view.png)
+## 🗄 Screenshots
+### 🔹 Welcome Page
+![Welcome Page](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App/blob/main/Screenshorts-for-Readme/Welcome%20Page.png)
 
-### 🔹 Navigation Buttons
-![Navigation](screenshots/navigation.png)
+### 🔹 Home Page
+![Home Page](https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App/blob/main/Screenshorts-for-Readme/Home%20Page.png)
 
 ## 🛠️ Installation & Usage
-### **1️⃣ Clone the Repository**
+### **1⃣ Clone the Repository**
 ```bash
 git clone https://github.com/TARNALA-SRIBATSA-PATRO/AWT-Calendar-App.git
 ```
 
-### **2️⃣ Compile the Java File**
+### **2⃣ Compile the Java File**
 ```bash
 javac CalendarApp.java
 ```
 
-### **3️⃣ Run the Application**
+### **3⃣ Run the Application**
 ```bash
 java CalendarApp
 ```
 
-## 📜 Requirements
+## 🐜 Requirements
 - **Java JDK 8+**
 - Compatible with **Windows, Mac, and Linux**
 
@@ -49,7 +49,7 @@ If you want to contribute:
 4. **Make** changes and commit.
 5. **Push** to your fork and submit a Pull Request.
 
-## 📧 Contact
+## 💎 Contact
 If you have any questions, feel free to reach out:
 - **GitHub**: [TARNALA-SRIBATSA-PATRO](https://github.com/TARNALA-SRIBATSA-PATRO)
 - **Email**: tsribatsapatro@gmail.com
